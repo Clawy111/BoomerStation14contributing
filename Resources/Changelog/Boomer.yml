@@ -184,4 +184,25 @@ Entries:
   id: 25
   time: '2026-07-27T13:15:00.0000000+00:00'
   url: https://github.com/Monkestation/BoomerStation14/pull/72
+- author: Blumbee
+  changes:
+  - message: Guidebook now contains Spacelaw, Crime List
+    type: add
+  id: 26
+  time: '2026-08-08T07:15:00.0000000+00:00'
+  url: https://github.com/Monkestation/BoomerStation14/pull/70
+- author: Blumbee
+  changes:
+  - message: You can blink and crack your knuckles now! Hurray!
+    type: add
+  id: 27
+  time: '2026-08-08T07:15:00.0000000+00:00'
+  url: https://github.com/Monkestation/BoomerStation14/pull/79
+- author: Skarlet
+  changes:
+  - message: Ported Carpmosia's AI navmap overlay, which shows the station layout without static.
+    type: tweak
+  id: 28
+  time: '2026-08-08T07:15:00.0000000+00:00'
+  url: https://github.com/Monkestation/BoomerStation14/pull/83
 Order: 1
