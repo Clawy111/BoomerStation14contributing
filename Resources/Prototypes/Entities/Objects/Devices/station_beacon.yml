@@ -255,7 +255,6 @@
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-courtroom
-    color: "#BDA499" # funky - alignment with IA over sec
 
 - type: entity
   parent: DefaultStationBeaconSecurity
@@ -264,7 +263,6 @@
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-law
-    color: "#D4D4D496" # funky - not sec aligned, now civilian
 
 - type: entity
   parent: DefaultStationBeaconSecurity
@@ -639,7 +637,6 @@
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-botany
-    color: "#A46106" # funky - under logistics now
 
 - type: entity
   parent: DefaultStationBeaconService
@@ -729,7 +726,6 @@
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-chapel
-    color: "#9FED58" # funky - officially service
 
 - type: entity
   parent: DefaultStationBeacon
@@ -738,7 +734,6 @@
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-library
-    color: "#9FED58" # funky - officially service
 
 - type: entity
   parent: DefaultStationBeacon
@@ -755,7 +750,6 @@
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-theater
-    color: "#9FED58" # funky - oficially service
 
 - type: entity
   parent: DefaultStationBeacon
