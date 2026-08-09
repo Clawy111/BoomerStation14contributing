@@ -12,7 +12,7 @@
     time: 10h
   startingGear: CLGear
   icon: "JobIconCorporateLiaison"
-  supervisors: job-supervisors-centcomm-advisor
+  supervisors: job-supervisors-cl
   access:
   - Corporate
   - Command

@@ -9,7 +9,7 @@
      time: 5h
   startingGear: IAAGear
   icon: "JobIconInternalAffairsAgent"
-  supervisors: job-supervisors-xo
+  supervisors: job-supervisors-ia
   access:
   - InternalAffairs
   - Brig

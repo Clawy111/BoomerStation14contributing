@@ -13,7 +13,7 @@
   weight: 5
   startingGear: WardenGear
   icon: "JobIconWarden"
-  supervisors: job-supervisors-commandant #funky
+  supervisors: job-supervisors-hos
   access:
   - Security
   - Brig

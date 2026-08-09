@@ -7,13 +7,9 @@
   - !type:RoleTimeRequirement
     role: JobIAA
     time: 5h
-  - !type:DepartmentTimeRequirement
-    department: Security
-    time: 5h
-
   startingGear: MagistrateGear
   icon: "JobIconMagistrate"
-  supervisors: job-supervisors-xo
+  supervisors: job-supervisors-ia
   access:
   - Magistrate
   - Brig

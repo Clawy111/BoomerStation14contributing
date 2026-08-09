@@ -9,7 +9,7 @@
       time: 0.5h
   startingGear: ChefGear
   icon: "JobIconChef"
-  supervisors: job-supervisors-hd # funky
+  supervisors: job-supervisors-hop
   access:
   - Service
   - Maintenance

@@ -9,7 +9,7 @@
     time: 0.5h
   startingGear: ServiceWorkerGear
   icon: "JobIconServiceWorker"
-  supervisors: job-supervisors-hd # funky
+  supervisors: job-supervisors-service
   access:
   - Service
   - Maintenance

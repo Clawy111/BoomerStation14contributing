@@ -9,7 +9,7 @@
       time: 0.5h
   startingGear: BartenderGear
   icon: "JobIconBartender"
-  supervisors: job-supervisors-hd # funky
+  supervisors: job-supervisors-hop
   access:
   - Service
   - Maintenance
