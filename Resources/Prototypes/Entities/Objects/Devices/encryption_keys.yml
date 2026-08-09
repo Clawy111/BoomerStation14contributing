@@ -78,7 +78,6 @@
     - Security
     - Service
     - Supply
-    - InternalAffairs #funky
     defaultChannel: Command
   - type: Sprite
     layers:

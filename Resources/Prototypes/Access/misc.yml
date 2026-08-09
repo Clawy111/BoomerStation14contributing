@@ -3,7 +3,7 @@
   tags:
   - EmergencyShuttleRepealAll
   - Captain
-#  - HeadOfPersonnel - funky
+  - HeadOfPersonnel
   - ChiefEngineer
   - ChiefMedicalOfficer
   - HeadOfSecurity
@@ -35,12 +35,6 @@
   - GenpopEnter
   - GenpopLeave
   - Newsroom # Funky
-  - Library # funky
-  - Corporate # funky
-  - InternalAffairs #funky
-  - Magistrate #funky
-  - HospitalityDirector #funky
-  - ExecutiveOfficer #funky
 
 - type: accessGroup
   id: General
