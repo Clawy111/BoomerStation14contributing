@@ -1,29 +1,35 @@
 ﻿- type: loadout
   id: PagerGray
-  equipment:
-    pocket1: PagerGray
+  storage:
+    back:
+    - PagerGray # Monkestation - Put pagers in backpack since pockets are sometimes full
 
 - type: loadout
   id: PagerBeige
-  equipment:
-    pocket1: PagerBeige
+  storage:
+    back:
+    - PagerBeige # Monkestation - Put pagers in backpack since pockets are sometimes full
 
 - type: loadout
   id: PagerBlue
-  equipment:
-    pocket1: PagerBlue
+  storage:
+    back:
+    - PagerBlue # Monkestation - Put pagers in backpack since pockets are sometimes full
 
 - type: loadout
   id: PagerTransCyan
-  equipment:
-    pocket1: PagerTransCyan
+  storage:
+    back:
+    - PagerTransCyan # Monkestation - Put pagers in backpack since pockets are sometimes full
 
 - type: loadout
   id: PagerTransPink
-  equipment:
-    pocket1: PagerTransPink
+  storage:
+    back:
+    - PagerTransPink # Monkestation - Put pagers in backpack since pockets are sometimes full
 
 - type: loadout
   id: PagerTransYellow
-  equipment:
-    pocket1: PagerTransYellow
+  storage:
+    back:
+    - PagerTransYellow # Monkestation - Put pagers in backpack since pockets are sometimes full

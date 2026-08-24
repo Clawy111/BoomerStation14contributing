@@ -14,7 +14,7 @@
     size: Tiny
   - type: EmitSoundOnLand
     sound:
-      path: /Audio/Effects/metal_slam4.ogg
+      path: /Audio/Effects/metal_slam3.ogg
       params:
         volume: -2
   - type: Damageable

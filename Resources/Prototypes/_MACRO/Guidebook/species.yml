@@ -16,10 +16,10 @@
 #  name: species-name-apid
 #  text: "/ServerInfo/_MACRO/Guidebook/Mobs/Apid.xml"
 
-#- type: guideEntry
-#  id: Ungu
-#  name: Ungu
-#  text: "/ServerInfo/_MACRO/Guidebook/Mobs/Ungu.xml"
+- type: guideEntry
+  id: Ungu
+  name: species-name-ungu
+  text: "/ServerInfo/_MACRO/Guidebook/Mobs/Ungu.xml"
 
 - type: guideEntry
   id: Decapoid
@@ -37,7 +37,7 @@
 #  name: Ant
 #  text: "/ServerInfo/_MACRO/Guidebook/Mobs/Ant.xml"
 
-#- type: guideEntry
-#  id: Ovinia
-#  name: Ovinia
-#  text: "/ServerInfo/_MACRO/Guidebook/Mobs/Ovinia.xml"
+- type: guideEntry
+  id: Ovinia
+  name: species-name-ovinia
+  text: "/ServerInfo/_MACRO/Guidebook/Mobs/Ovinia.xml"
