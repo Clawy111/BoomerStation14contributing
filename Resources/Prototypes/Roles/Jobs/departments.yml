@@ -1,10 +1,9 @@
 - type: department
   id: Cargo
-  name: department-Logistics
-  description: department-Logistics-description
+  name: department-Cargo
+  description: department-Cargo-description
   color: "#A46106"
   roles:
-  - Botanist # Funky - Moved from Civilian
   - CargoTechnician
   - Quartermaster
   - SalvageSpecialist
@@ -13,24 +12,24 @@
   id: Civilian
   name: department-Civilian
   description: department-Civilian-description
-  color: "#808080" # Funky - Changed color to gray, like the icons. Service is now green
+  color: "#9FED58"
   weight: -10
   roles:
-  #- Bartender # Funky - All the commented out jobs are moving to Service
-  #- Botanist # Except Botanist which is moving to Logistics
-  #- Chaplain
-  #- Chef
-  #- Clown
-  #- HeadOfPersonnel
-  #- Janitor
+  - Bartender
+  - Botanist
+  - Chaplain
+  - Chef
+  - Clown
+  - HeadOfPersonnel
+  - Janitor
   - Lawyer
-  #- Librarian
-  #- Mime
-  #- Musician
+  - Librarian
+  - Mime
+  - Musician
   - Passenger
   - Reporter
   - Visitor
-  #- ServiceWorker
+  - ServiceWorker
 
 - type: department
   id: CentralCommand

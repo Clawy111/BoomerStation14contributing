@@ -408,7 +408,7 @@
   suffix: Supply
   components:
   - type: NavMapBeacon
-    defaultText: station-beacon-logistics # Funky - Logistics rename
+    defaultText: station-beacon-supply
     color: "#A46106"
 
 - type: entity

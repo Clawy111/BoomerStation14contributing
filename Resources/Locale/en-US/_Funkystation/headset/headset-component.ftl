@@ -1,1 +1,0 @@
-chat-radio-logistics = Logistics

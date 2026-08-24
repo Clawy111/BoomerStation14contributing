@@ -8,9 +8,9 @@
       time: 2.5h
   startingGear: LawyerGear
   icon: "JobIconLawyer"
-  supervisors: job-supervisors-hire # Funky - Now a contracted Civilian job
+  supervisors: job-supervisors-hop
   access:
-  #- Service # Funky - No longer part of Service
+  - Service
   - Lawyer
   - Brig
   - Maintenance
@@ -20,8 +20,7 @@
   equipment:
     shoes: ClothingShoesBootsLaceup
     id: LawyerPDA
-    #ears: ClothingHeadsetSecurity # Funky
-    ears: ClothingHeadsetGrey # Funky
+    ears: ClothingHeadsetSecurity
   inhand:
     - BriefcaseBrownFilled
   storage:

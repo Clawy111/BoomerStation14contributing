@@ -34,7 +34,6 @@
   - Atmospherics
   - GenpopEnter
   - GenpopLeave
-  - Newsroom # Funky
 
 - type: accessGroup
   id: General
