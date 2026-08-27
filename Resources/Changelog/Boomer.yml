@@ -173,35 +173,35 @@ Entries:
 - author: AitorLogedo
   changes:
   - message: Grays can now fart and piss like everyone else.
-    type: add
+    type: Add
   id: 24
   time: '2026-07-20T19:30:00.0000000+00:00'
   url: https://github.com/Monkestation/BoomerStation14/pull/69
 - author: adamsogm
   changes:
   - message: Added status command to discord
-    type: add
+    type: Add
   id: 25
   time: '2026-07-27T13:15:00.0000000+00:00'
   url: https://github.com/Monkestation/BoomerStation14/pull/72
 - author: Blumbee
   changes:
   - message: Guidebook now contains Spacelaw, Crime List
-    type: add
+    type: Add
   id: 26
   time: '2026-08-08T07:15:00.0000000+00:00'
   url: https://github.com/Monkestation/BoomerStation14/pull/70
 - author: Blumbee
   changes:
   - message: You can blink and crack your knuckles now! Hurray!
-    type: add
+    type: Add
   id: 27
   time: '2026-08-08T07:15:00.0000000+00:00'
   url: https://github.com/Monkestation/BoomerStation14/pull/79
 - author: Skarlet
   changes:
   - message: Ported Carpmosia's AI navmap overlay, which shows the station layout without static.
-    type: tweak
+    type: Tweak
   id: 28
   time: '2026-08-08T07:15:00.0000000+00:00'
   url: https://github.com/Monkestation/BoomerStation14/pull/83
