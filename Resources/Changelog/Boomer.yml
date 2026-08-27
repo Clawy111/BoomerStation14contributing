@@ -205,4 +205,32 @@ Entries:
   id: 28
   time: '2026-08-08T07:15:00.0000000+00:00'
   url: https://github.com/Monkestation/BoomerStation14/pull/83
+- author: SuperDicq
+  changes:
+  - message: Port Sushi Station from BPL
+    type: Add
+  id: 29
+  time: '2026-08-27T04:30:00.0000000+00:00'
+  url: https://github.com/Monkestation/BoomerStation14/pull/63
+- author: adamsong
+  changes:
+  - message: Remove Vulpkanin
+    type: Remove
+  id: 30
+  time: '2026-08-27T04:30:00.0000000+00:00'
+  url: https://github.com/Monkestation/BoomerStation14/pull/101
+- author: Blumbee
+  changes:
+  - message: Ungu and Ovinia can now blink and crack their knuckles properly
+    type: Fix
+  id: 31
+  time: '2026-08-27T04:30:00.0000000+00:00'
+  url: https://github.com/Monkestation/BoomerStation14/pull/102
+- author: Blumbee
+  changes:
+  - message: Space cleaner dispensers now hold 3000 units
+    type: Tweak
+  id: 32
+  time: '2026-08-27T04:30:00.0000000+00:00'
+  url: https://github.com/Monkestation/BoomerStation14/pull/104
 Order: 1
