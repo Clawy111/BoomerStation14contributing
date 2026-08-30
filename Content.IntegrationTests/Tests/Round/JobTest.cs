@@ -159,7 +159,6 @@ public sealed class JobTest : GameTest
         await pair.Server.WaitPost(() => ticker.RestartRound());
     }
 
-    /* Funky begin - Jobs no longer have different priorities
     /// <summary>
     /// Check high priority jobs (e.g., captain) are selected before other roles, even if it means a player does not
     /// get their preferred job.
@@ -193,7 +192,6 @@ public sealed class JobTest : GameTest
 
         await pair.Server.WaitPost(() => ticker.RestartRound());
     }
-    Funky end */
 
     /// <summary>
     /// Check that map job-weight overrides are used, while jobs omitted by the map retain their default weight.
