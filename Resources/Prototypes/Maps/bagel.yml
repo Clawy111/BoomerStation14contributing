@@ -64,4 +64,4 @@
             StationAi: [ 1, 1 ]
             Borg: [ 2, 2 ]
             #prisoner
-            Prisoner: [1, 1]
+            Prisoner: [1, 2]

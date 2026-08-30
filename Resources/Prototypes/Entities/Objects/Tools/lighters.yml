@@ -112,7 +112,7 @@
   id: CheapLighter
   name: cheap lighter
   description: "A dangerously inexpensive plastic lighter. Don't burn your thumb!"
-  categories: [ DoNotMap, HideSpawnMenu ] # funky station
+  categories: [ HideSpawnMenu ] # funky station # readded by monke
   components:
   - type: Sprite
     sprite: Objects/Tools/Lighters/lighters.rsi
@@ -132,6 +132,9 @@
   - type: Welder
     fuelConsumption: 0.02
     fuelLitCost: 0.2
+  - type: ItemToggleRandomFail # funky station
+    failChance: 0.25
+    popupText: lighter-activate-attempt-failure
 
 - type: entity
   parent: [ SolutionLighter, BaseLighter ]

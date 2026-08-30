@@ -1,7 +1,7 @@
 - type: gameMap
   id: Reach
   mapName: 'Reach'
-  mapPath: /Maps/_Monkestation/_Monkestation/reach.yml
+  mapPath: /Maps/_Monkestation/reach.yml
   minPlayers: 0
   maxPlayers: 7
   stations:

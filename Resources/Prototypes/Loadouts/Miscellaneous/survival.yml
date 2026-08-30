@@ -23,6 +23,7 @@
     - Apid
     - Gastropoid
     - Ovinia
+    - Ungu # Monkey added ungu while macro fixes
 
 - type: loadoutEffectGroup
   id: EffectSpeciesVox

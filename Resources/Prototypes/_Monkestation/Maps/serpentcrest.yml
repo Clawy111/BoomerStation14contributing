@@ -64,3 +64,4 @@
             #silicon
             Borg: [ 3, 3 ]
             StationAi: [ 1, 1 ]
+            Prisoner: [1, 2]
