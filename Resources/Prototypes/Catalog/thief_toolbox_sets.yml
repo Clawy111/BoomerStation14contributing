@@ -8,7 +8,7 @@
   content:
   - ClothingBackpackChameleonFillAgent
   - ChameleonProjector
-  #- FakeMindShieldImplanter # Funky - Removing mindshields
+  - FakeMindShieldImplanter
 
 - type: thiefBackpackSet
   id: ToolsSet
