@@ -253,4 +253,11 @@
   id: 34
   time: '2026-09-02T06:40:42Z'
   url: https://github.com/Monkestation/BoomerStation14/pull/108
+- author: Alkheemist
+  changes:
+  - message: The job icon on your ID now appears next to your name on radio messages.
+    type: Add
+  id: 35
+  time: '2026-09-02T06:53:55Z'
+  url: https://github.com/Monkestation/BoomerStation14/pull/109
 Order: -2
