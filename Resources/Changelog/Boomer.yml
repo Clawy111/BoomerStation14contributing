@@ -246,4 +246,11 @@
   id: 33
   time: '2026-09-02T06:36:17Z'
   url: https://github.com/Monkestation/BoomerStation14/pull/107
+- author: Blumbee
+  changes:
+  - message: Reverted JobIcons to wizden ones
+    type: Tweak
+  id: 34
+  time: '2026-09-02T06:40:42Z'
+  url: https://github.com/Monkestation/BoomerStation14/pull/108
 Order: -2
