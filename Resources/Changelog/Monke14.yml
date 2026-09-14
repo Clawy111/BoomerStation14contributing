@@ -281,4 +281,11 @@
   id: 38
   time: '2026-09-07T01:40:03Z'
   url: https://github.com/Monkestation/BoomerStation14/pull/117
+- author: Skarlet
+  changes:
+  - message: Added the Duke of Ook to the game (plushie version)!
+    type: Add
+  id: 39
+  time: '2026-09-14T23:20:47Z'
+  url: https://github.com/Monkestation/BoomerStation14/pull/121
 Order: -2
